@@ -5,28 +5,28 @@ import  maleProfile from './images/maleProfile.jpg';
 const Employees = () => {
     const [employees, setEmployees] = useState( [{
         id: 1,
-        fullName: "Bob Jones",
+        fullName: "favour ofego",
         designation: "JavaScript Developer",
         gender: "male",
         teamName: "TeamA"
       },
       {
         id: 2,
-        fullName: "Jill Bailey",
+        fullName: "Great Joe",
         designation: "Node Developer",
         gender: "female",
         teamName: "TeamA"
       },
       {
         id: 3,
-        fullName: "Gail Shepherd",
+        fullName: "Hillary Ewoma",
         designation: "Java Developer",
         gender: "female",
         teamName: "TeamA"
       },
       {
         id: 4,
-        fullName: "Sam Reynolds",
+        fullName: "David Joe",
         designation: "React Developer",
         gender: "male",
         teamName: "TeamB"
@@ -40,14 +40,14 @@ const Employees = () => {
       },
       {
         id: 6,
-        fullName: "Sarah Blake",
+        fullName: "Sarah Rose",
         designation: "SQL Server DBA",
         gender: "female",
         teamName: "TeamB"
       },
       {
         id: 7,
-        fullName: "James Bennet",
+        fullName: "James Ben",
         designation: "Angular Developer",
         gender: "male",
         teamName: "TeamC"
